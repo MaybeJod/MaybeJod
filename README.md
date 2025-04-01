@@ -1,10 +1,9 @@
 ### Hello there 👋
 
-#### A Front-end student by day ☀︎ and third fastest Mario kart driver @HyperIsland by night ☾
+#### I'm a front end student by day ☀︎ and third fastest Mario kart driver @HyperIsland by night ☾
 
-
-- 🌱 Currently learning front-end basics  ᓚ₍ ^. .^₎
-- 💞️ Looking to collaborate on wacky projects
+- 💞️ **Looking for front end developer LIA/internship** 
+- 🌱 Currently learning front end ᓚ₍ ^. .^₎
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `google.com`
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⡷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
